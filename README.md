@@ -1,7 +1,7 @@
 HYDRUS-1D source code
 =====================
 
-The original code is distributed under the terms of the (GNU General Public License)[http://www.gnu.org/licenses/gpl-3.0.txt]
+The original code is distributed under the terms of the [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.txt)
 and available for download at https://www.pc-progress.com/en/Default.aspx?hydrus-1d
 
 This repository host the Phydrus optimised Fortran code for the Hydrus-1D Model (c) PC-Progress.
@@ -45,5 +45,5 @@ Reference
 ---------
 
 Šimůnek, J., M. Th. van Genuchten, and M. Šejna, Development and applications of the HYDRUS and STANMOD software
-packages, and related codes, Vadose Zone Journal, doi:(10.2136/VZJ2007.0077)[https://doi.org/10.2136/VZJ2007.0077],
+packages, and related codes, Vadose Zone Journal, doi:[10.2136/VZJ2007.0077](https://doi.org/10.2136/VZJ2007.0077),
 Special Issue "Vadose Zone Modeling", 7(2), 587-600, 2008.
