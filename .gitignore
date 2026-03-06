@@ -1,0 +1,7 @@
+# build objects/modules/library
+*.obj
+*.o
+*.a
+*.so
+*.mod
+*.lib
